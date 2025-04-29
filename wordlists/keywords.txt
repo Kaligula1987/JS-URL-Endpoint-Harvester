@@ -1,0 +1,10 @@
+auth
+login
+logout
+token
+upload
+file
+media
+checkout
+payment
+billing
