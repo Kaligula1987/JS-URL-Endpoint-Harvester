@@ -28,7 +28,7 @@ pip3 install requests
 Usage:
 
 
-python3 jsprobe.py <example.com/path/to/file.js>     
+python3 jsprobe.py http://example.com/path/to/file.js     
 
 
 have fun!!!
