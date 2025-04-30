@@ -32,3 +32,5 @@ python3 jsprobe.py http://example.com/path/to/file.js
 
 
 have fun!!!
+
+https://buymeacoffee.com/lukassimun
